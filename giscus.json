@@ -1,0 +1,4 @@
+{
+  "origins": ["https://hanul.dev"],
+  "originsRegex": ["http://localhost:[0-9]+"]
+}
